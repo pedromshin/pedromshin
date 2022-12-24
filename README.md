@@ -30,3 +30,5 @@ I am versed in DevOPS CI/CD environments that implement Agile methodologies towa
 
 Skills:
 React | Typescript | SEO | Next.js | SSR | DevOPS | GraphQL | Docker | Git | Javascript | HTML | CSS | REST | AWS | sass | storybook | styled-components
+
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
